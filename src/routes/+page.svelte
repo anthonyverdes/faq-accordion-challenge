@@ -15,9 +15,9 @@
   </div>
   <div class="attribution">
     <p>
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>
       <br />
-      Coded by <a href="https://www.frontendmentor.io/profile/anthonyverdes" target="_blank">Anthony Verdes</a>
+      Coded by <a href="https://www.frontendmentor.io/profile/anthonyverdes">Anthony Verdes</a>
     </p>
   </div>
 </main>
@@ -143,7 +143,7 @@
     }
 
     h1 {
-      font-size: 64px;
+      font-size: 4rem;
       padding-left: 64px;
     }
 

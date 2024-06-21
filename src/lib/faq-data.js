@@ -5,7 +5,7 @@ export const faqs = [
   },
   {
     question: "Is Frontend Mentor free?",
-    answer: "The majority of our challenges are free, yes. We do have some that are premium and require a <a href=\"https://www.frontendmentor.io/pro\" target=\"_blank\">Pro subscription</a> to access. It will say on each challenge whether they are free or premium, so it's easy to tell the difference."
+    answer: "The majority of our challenges are free, yes. We do have some that are premium and require a <a href=\"https://www.frontendmentor.io/pro\">Pro subscription</a> to access. It will say on each challenge whether they are free or premium, so it's easy to tell the difference."
   },
   {
     question: "Can I use Frontend Mentor projects in my portfolio?",
@@ -13,6 +13,6 @@ export const faqs = [
   },
   {
     question: "How can I get help if I'm stuck on a challenge?",
-    answer: "The best (and quickest) way to get help on a challenge is in our Discord server. There are thousands of other developers in there, so it's a great place to ask questions. We even have a dedicated \"help\" channel! If you haven't joined yet, <a href=\"https://discord.com/invite/UAfh3qzhYb\" target=\"_blank\">you can get an invite to our Discord server here.</a>"
+    answer: "The best (and quickest) way to get help on a challenge is in our Discord server. There are thousands of other developers in there, so it's a great place to ask questions. We even have a dedicated \"help\" channel! If you haven't joined yet, <a href=\"https://discord.com/invite/UAfh3qzhYb\">you can get an invite to our Discord server here.</a>"
   },
 ];
