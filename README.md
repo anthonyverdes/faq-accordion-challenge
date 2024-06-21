@@ -25,8 +25,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- Solution URL: [https://github.com/anthonyverdes/faq-accordion-challenge](https://github.com/anthonyverdes/faq-accordion-challenge)
+- Live Site URL: [https://kaleidoscopic-chimera-aecb9e.netlify.app/](https://kaleidoscopic-chimera-aecb9e.netlify.app/)
 
 ## My process
 
